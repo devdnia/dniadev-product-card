@@ -52,25 +52,26 @@
     }
   ],
   "devDependencies": {
-    "@babel/preset-env": "^7.22.9",
-    "@babel/preset-react": "^7.22.5",
-    "@rollup/plugin-image": "^3.0.2",
-    "@size-limit/preset-small-lib": "^8.2.6",
-    "@types/react": "^18.2.18",
-    "@types/react-dom": "^18.2.7",
-    "babel-jest": "^29.6.2",
-    "husky": "^8.0.3",
+    "@types/react-test-renderer": "^17.0.1",
+    "@babel/preset-env": "^7.15.6",
+    "@babel/preset-react": "^7.14.5",
+    "@rollup/plugin-image": "^2.1.1",
+    "@size-limit/preset-small-lib": "^5.0.5",
+    "@types/react": "^17.0.26",
+    "@types/react-dom": "^17.0.9",
+    "babel-jest": "^27.2.4",
+    "husky": "^7.0.2",
     "identity-obj-proxy": "^3.0.0",
-    "jest": "^29.6.2",
-    "postcss": "^8.4.27",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-test-renderer": "^18.2.0",
-    "rollup-plugin-postcss": "^4.0.2",
-    "size-limit": "^8.2.6",
+    "jest": "^27.2.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-test-renderer": "^17.0.2",
+    "rollup-plugin-postcss": "^4.0.1",
+    "size-limit": "^5.0.5",
     "tsdx": "^0.14.1",
-    "tslib": "^2.6.1",
-    "typescript": "^5.1.6"
+    "tslib": "^2.3.1",
+    "typescript": "^4.4.3",
+    "react-scripts": "^5.0.1"
   },
   "keywords": [
     "product",
@@ -80,8 +81,6 @@
     "Perez"
   ],
   "dependencies": {
-    "@types/react-test-renderer": "^18.0.0",
-    "react-scripts": "^5.0.1"
   },
   "jest": {
     "moduleNameMapper": {
