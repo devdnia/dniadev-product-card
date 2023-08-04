@@ -1,8 +1,9 @@
 # Dniadev-Product-Card
 
-Este es un paquete de pruebas de despliegue en NPM
+Este es un paquete para React para crear una tarjeta de productos con la funcionalidad de incrementar o decrementar las unidades que se desean. 
 
-### Iván Pérez 
+![ProductCart](./assets/imageExample.jpg)
+
 
 ### Ejemplo
 ```
