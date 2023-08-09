@@ -7,7 +7,7 @@ Este es un paquete para React para crear una tarjeta de productos con la funcion
 
 ### Ejemplo
 ```
-import { ProductCard, ProductImage, ProductTitle, ProductButtons } 'dniadev-product-card';
+import { ProductCard, ProductImage, ProductTitle, ProductButtons } from 'dniadev-product-card';
 ```
 
 
